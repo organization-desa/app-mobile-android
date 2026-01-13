@@ -93,3 +93,4 @@ Dentro de cada workflow run se encuentra archivado el apk generado
 **Para QA:**  Nombre del proyecto-release-build-version.apk
 
 **Para PRD:**  Nombre del proyecto-release-build-tag.apk
+
